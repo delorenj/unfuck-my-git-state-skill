@@ -8,7 +8,9 @@ I’ve used git almost every day for 24 years, and it still humbles me with its 
 
 I don't care who you are - "oh you're that NASA flight engineer who wrote the navigational algorithm and tweaked the assembly code that landed the Curiosity robot on Mars?" - even you’ve had that moment after git reset --hard where your brain goes: “Did I just vaporize $134M in history… or am I just having a normal day?” Then you run git reflog and its literally more complex than the firehose of black box telemetry data from a Boeing crash.
 
-Git: "You did *what* now? Oh, I gotchu. Hey, you have fun with that buddy!"
+Git: "You did *what* now? Oh, I gotchu. <prints you a wall of trickling Matrix runes> Hey, you have fun with that buddy!"
+
+You consider the Nuclear Option: Deleting the entire repo on your local machine and re-cloning it. We don’t talk about the *Re-Clone*. It is the developer walk of shame. It is burning down your house because you saw a spider. Oh you've never done that? Fucking liar! We all just want to get back to main
 
 I have this overwhelming sense of empathy when I look at this new wave of vibe coders and I’m like… buddy… you are not emotionally prepared for Git. They arrive thinking ooooh "save button, but spicy!" Then Git throws its first real problem at them and suddenly they’re staring into the abyss, learning what “detached HEAD” means like it’s a medical diagnosis.
 
